@@ -1,1 +1,1 @@
-https://persianhost.org/api/
+http://persianhost.org/api/
