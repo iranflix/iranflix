@@ -1,1 +1,1 @@
-iranflix.info/zaban/api/lang.php
+iranflix.info/zaban/lang.php
